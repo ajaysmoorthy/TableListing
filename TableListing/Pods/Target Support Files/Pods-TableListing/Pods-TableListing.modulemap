@@ -1,0 +1,6 @@
+framework module Pods_TableListing {
+  umbrella header "Pods-TableListing-umbrella.h"
+
+  export *
+  module * { export * }
+}
